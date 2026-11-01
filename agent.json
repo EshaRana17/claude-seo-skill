@@ -1,0 +1,7 @@
+{
+  "name": "seo-strategist",
+  "description": "SEO strategist skill: on-page audits, keyword research and clustering, content briefs, and technical SEO checklists grounded in Google Search Central guidance, with an offline stdlib-only HTML checker script. Never invents search volumes.",
+  "type": "skill",
+  "network": [],
+  "env": []
+}
