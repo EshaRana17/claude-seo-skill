@@ -140,8 +140,8 @@ two images with no alt attribute, a `javascript:` link, and FAQPage markup
 - The skill requires no API keys or environment variables (`agent.json`
   declares `"network": []` and `"env": []`). Any web fetching happens only
   through tools you have already enabled in your agent.
-- This skill has been scanned on Vetted Agents:
-  https://agentvet-seven.vercel.app/verified
+- This skill has been scanned on AgenticMart:
+  https://agenticmart.vercel.app/verified
 
 ## Contributing
 
