@@ -141,7 +141,7 @@ two images with no alt attribute, a `javascript:` link, and FAQPage markup
   declares `"network": []` and `"env": []`). Any web fetching happens only
   through tools you have already enabled in your agent.
 - This skill has been scanned on AgenticMart:
-  https://agenticmart.vercel.app/verified
+  https://agenticmart.org/verified
 
 ## Contributing
 
